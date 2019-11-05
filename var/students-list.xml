@@ -306,4 +306,11 @@
         <github>alamakota</github>
         <group>WZISS1-1111</group>
     </student>
-</students>
+	<student>
+          <firstname>Patrycja</firstname>
+          <lastname>Żółkiewska</lastname>
+          <email>patrycja.zolkiewska1@gmail.com</email>
+          <github>Patrycja147</github>
+          <group>WZISS1-1112</group>
+    </student>
+ </students>
