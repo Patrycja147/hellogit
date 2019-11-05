@@ -5,7 +5,13 @@
         <lastname>Wójcik</lastname>
         <email>fiona_17@interia.pl</email>
         <github>Fiona84</github>
-        <group>Teacher</group>
+    </student>
+    <student>
+        <firstname>Piotr</firstname>
+        <lastname>Gałecki</lastname>
+        <email>askovsky24@gmail.com</email>
+        <github>Asko24</github>
+        <group>Student</group>
     </student>
     <student>
         <firstname>Kamil</firstname>
@@ -312,5 +318,12 @@
           <email>patrycja.zolkiewska1@gmail.com</email>
           <github>Patrycja147</github>
           <group>WZISS1-1112</group>
+    </student>
+    <student>
+	        <firstname>Wiktoria</firstname>
+	        <lastname>Mroczko</lastname>
+	        <email>mrswik19@gmail.com</email>
+	        <github>wiktoriamroczko</github>
+	        <group>WZISS1-1112</group>
     </student>
  </students>
